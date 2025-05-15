@@ -1,4 +1,5 @@
-# thesis_wbk
+# LSTM-and-1D-CNN-based-Machine-Tools-Wear-Detection
+
 
 # 1. Requirements:
     Desc. Python Libraries
