@@ -83,8 +83,9 @@ such as 1st, 13th and 25th milling cycle, in the figure. The data when the tool 
 This project is accompanied by the following published article:
 
 (https://link.springer.com/article/10.1007/s00170-025-15069-x)
-*Author1, Author2, Your Name, ...*  
-Journal Name, Year
+
+Demetgul, M., Darji, A. R., Tansel, I. N., Puchta, A., Fleischer, J., & Stork, W. (2025). Sensorless Tool Wear Estimation by using the Artificial Intelligence (AI) tools from the currents of motors generating linear motions. The International Journal of Advanced Manufacturing Technology, 1-19.
+
 ## Contributors
 
 - Dr.Mustafa Demetgül – Academic Supervisor
